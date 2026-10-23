@@ -1,11 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Neverland
+  pageTitle: 🌱 Neverland
   pageTitleSuffix: "Live fast, Love hard, Die young."
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tag: G-V0781QYQN5
   locale: zh-CN
   baseUrl: blog.yanwei.xyz
   ignorePatterns:
@@ -204,7 +205,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: true
+    enabled: false
     options:
       provider: giscus
       options:
