@@ -9,20 +9,12 @@ tags:
 
 # 🌱 Neverland
 
-Welcome to my digital garden.
-
 > _Live fast, Love hard, Die young._
 
-## 📝 最新文章
+## About Me
 
-正在创作中...
+**Hi, I’m Wei YAN** - a software developer@Hangzhou, CHINA. With a background in Communication Engineering, Information Security and E-Commerce Marketing, I love exploring different topics ranging from tech to lifestyle, from science to philosophy. In this blog, I aim to share my curiosity, learnings, and perspectives. Happy reading!
 
-## 📂 分类
+For more info about me, plz visit:
 
-- 技术笔记
-- 生活随笔
-- 项目记录
-
-## 🔗 关于我
-
-[GitHub](https://github.com/yw79641760) · [博客](https://blog.yanwei.xyz)
+[GitHub](https://github.com/yw79641760) · [X](https://x.com/yw79641760)
