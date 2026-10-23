@@ -104,7 +104,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: tokyo-night
+      theme: obsidian
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
