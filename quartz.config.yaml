@@ -131,6 +131,8 @@ plugins:
       enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
+    options:
+      src: "https://cdn.yanwei.xyz/favicon.ico"
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
