@@ -75,7 +75,7 @@ plugins:
       position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
-    enabled: true
+    enabled: false
     options:
       markdownLinkResolution: shortest
     order: 60
