@@ -205,20 +205,19 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
-        category: Announcements
-        categoryId: TODO:your-category-id
-        mapping: url
-        strict: true
+        repo: yw79641760/blog
+        repoId: R_kgDOVUePdw
+        category: Ideas
+        categoryId: DIC_kwDOVUePd84DJaK9
+        mapping: pathname
+        strict: false
         reactionsEnabled: true
         inputPosition: bottom
-        lightTheme: light
-        darkTheme: dark
+        theme: preferred_color_scheme
         lang: en
     layout:
       position: afterBody
