@@ -31,19 +31,12 @@ tags:
 | 10 | 21.000-21.450M | 15m | 业余、卫星业余 | 主 | CW、SSB、SSTV |
 | 11 | 24.890-24.990M | 12m | 业余、卫星业余 | 主 | - |
 | 12 | 28.000-29.700M | 10m | 业余、卫星业余 | 主 | FM、SSB |
-| 13 | 50-54M | 6m | - | 主（共用） | 与广播业务、固定业务共用；
-`ABC证可用；` SSB； |
-| 14 | 144-146M | 2m | 业余、卫星业余 | 主 | 144-144.035M，EME通信；145.8-146M，卫星通信；
-`ABC证可用；` FM； |
-| 15 | 146-148M | - | 业余 | 主（共用） | 与固定业务、移动业务共用
-`ABC证可用；`  |
-| 16 | 430-440M | 0.7m | 业余 | 次 | 主要业务是无线电定位、航空无线电导航；
-431.9-432.240M，EME通信；
-435-438M，卫星业余通信；
-`ABC证可用；` FM；`浙江、上海禁止;` |
+| 13 | 50-54M | 6m | - | 主（共用） | 与广播业务、固定业务共用；`ABC证可用；` SSB； |
+| 14 | 144-146M | 2m | 业余、卫星业余 | 主 | 144-144.035M，EME通信；145.8-146M，卫星通信；`ABC证可用；` FM； |
+| 15 | 146-148M | - | 业余 | 主（共用） | 与固定业务、移动业务共用`ABC证可用；`  |
+| 16 | 430-440M | 0.7m | 业余 | 次 | 主要业务是无线电定位、航空无线电导航；431.9-432.240M，EME通信；435-438M，卫星业余通信；`ABC证可用；` FM；`浙江、上海禁止;` |
 | 17 | 1.24-1.30G | 0.23m | - | 次 | 主要业务是移动通信、卫星通信 |
-| 18 | 2.30-2.45G | - | - | 次 | 主要业务是移动通信、卫星通信
-`ABC证可用；` |
+| 18 | 2.30-2.45G | - | - | 次 | 主要业务是移动通信、卫星通信`ABC证可用；` |
 | 19 | 3.30-3.50G | - | - | 次 | 主要业务是固定业务、移动业务 |
 | 20 | 5.65-5.85G | - | - | 次 | 主要业务是固定业务、移动业务、卫星通信 |
 | 21 | 10-10.5G | - | - | 次 | 主要业务是固定业务、移动业务、卫星通信 |
@@ -63,7 +56,7 @@ tags:
 
 # 3. 中国频率对照表
 
-![image.png](/assets/images/ham/HAM常用速查手册/image.png)
+![](https://sharing.yanwei.xyz/blog/image-3f615e18920dcb2a.png)
 
 # 4. 国内电台分区
 
@@ -81,20 +74,20 @@ tags:
 - VR2区——香港
 - XX9区——澳门
 
-![image.png](/assets/images/ham/HAM常用速查手册/image 1.png)
+![](https://sharing.yanwei.xyz/blog/image-58cbd6714f8922cb.png)
 
 # 5. ITU分区
 
 - ITU分区将世界分为75区，中国属于其中的第33、42、43、44、45（钓鱼岛）、50（黄岩岛）、54（曾母暗沙）区
     
-    ![image.png](/assets/images/ham/HAM常用速查手册/image 2.png)
+![](https://sharing.yanwei.xyz/blog/image-d30f24c522b83f77.png)
     
 
 # 6. CQ分区
 
 - CQ分区将世界分为40区，中国属于23、24、25（钓鱼岛）、26（曾母暗沙）、27（黄岩岛）区
     
-    ![image.png](/assets/images/ham/HAM常用速查手册/image 3.png)
+    ![](https://sharing.yanwei.xyz/blog/image-9766acd2f6aca424.png)
     
 
 # 7. 世界各国呼号前缀
@@ -253,11 +246,11 @@ tags:
 
 # 8. 字母解释法
 
-![image.png](/assets/images/ham/HAM常用速查手册/image 4.png)
+![](https://sharing.yanwei.xyz/blog/image-df58c1735c05231d.png)
 
 # 9. 摩尔斯电码
 
-![image.png](/assets/images/ham/HAM常用速查手册/image 5.png)
+![](https://sharing.yanwei.xyz/blog/image-cf14419e05a17ad3.png)
 
 # 10. 常用Q简语
 
@@ -437,4 +430,4 @@ tags:
 
 # 12. 西联 92 Code
 
-![WX20250807-235018@2x.png](/assets/images/ham/HAM常用速查手册/WX20250807-2350182x.png)
+![](https://sharing.yanwei.xyz/blog/image-2dc6fb530c32a4e5.png)

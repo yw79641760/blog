@@ -1,20 +1,27 @@
 ---
-title: Neverland
-date created: 2026-10-23
-date modified: 2026-10-23
-tags:
-  - home
-  - index
+title: Welcome to Neverland
+date created: 2024-05-23
+date modified: 2024-05-23
 ---
 
-# 🌱 Neverland
+# Neverland
 
 > _Live fast, Love hard, Die young._
 
-## About Me
+## 👋 About Me
 
-**Hi, I’m Wei YAN** - a software developer@Hangzhou, CHINA. With a background in Communication Engineering, Information Security and E-Commerce Marketing, I love exploring different topics ranging from tech to lifestyle, from science to philosophy. In this blog, I aim to share my curiosity, learnings, and perspectives. Happy reading!
+**Hi, I’m Wei YAN** 
+- 👨‍💻 Software Developer@Hangzhou. 
+- Background:
+	- 📡 Communication Engineering (QAU)
+	- 🔐 Information Security (BUPT) 
+	- 🛒 E-Commerce Marketing and 📈 User-Growth (Alibaba). 
+- I love exploring different topics ranging from tech to lifestyle, from science to philosophy. In this blog, I aim to share my curiosity, learnings, and perspectives. Happy reading!
 
-For more info about me, plz visit:
+## 🤯 Top of Mind
 
-[GitHub](https://github.com/yw79641760) · [X](https://x.com/yw79641760)
+These are things I'm currently thinking about:
+
+- 🤖 AI
+- 🛍️ MarTech
+- 📻 HAM

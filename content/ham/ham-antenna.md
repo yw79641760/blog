@@ -4,7 +4,6 @@ date created: 2026-10-23
 date modified: 2026-10-23
 description: This blog covers basic knowledge and classic types of antennas.
 tags:
-  - Draft
   - HAM
   - Tech
 draft: true
