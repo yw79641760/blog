@@ -236,7 +236,7 @@ plugins:
     enabled: true
     options:
       title: Recent Notes
-      limit: 5
+      limit: 3
       linkToMore: false
       showTags: true
     layout:
