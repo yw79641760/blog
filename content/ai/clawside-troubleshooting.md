@@ -5,6 +5,8 @@ date modified: 2026-04-09
 description: Guide to connect OpenClaw, Ollama, and Hermes-Agent APIs.
 tags:
   - Tech
+  - Agent
+  - Harness
 ---
 
 # How to connect ClawSide🦞 to LLM/Agent🤖️

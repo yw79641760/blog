@@ -135,6 +135,8 @@ plugins:
     options:
       enableSiteMap: true
       enableRSS: true
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
@@ -242,9 +244,9 @@ plugins:
     enabled: true
     options:
       links:
-        Built by yanwei.xyz with ❤️ : https://yanwei.xyz
-        GitHub : https://github.com/yw79641760
-        Discord : https://discord.gg/gP4FmY2QwJ
+        Built by yanwei.xyz with ❤️: https://yanwei.xyz
+        GitHub: https://github.com/yw79641760
+        Discord: https://discord.gg/gP4FmY2QwJ
         Twitter/X: https://x.com/yw79641760
     layout:
       position: footer
