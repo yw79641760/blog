@@ -194,7 +194,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/recent-notes"
-    enabled: true
+    enabled: false
     options:
       title: Recent Notes
       limit: 1
