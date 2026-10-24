@@ -101,6 +101,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      title: Abril Fatface
+      header: Playfair Display
+      body: Inter
+      code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: true
     options:
@@ -236,8 +242,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/yw79641760
-        Discord Community: https://discord.gg/gP4FmY2QwJ
+        Built by yanwei.xyz with ❤️ : https://yanwei.xyz
+        GitHub : https://github.com/yw79641760
+        Discord : https://discord.gg/gP4FmY2QwJ
         Twitter/X: https://x.com/yw79641760
     layout:
       position: footer
