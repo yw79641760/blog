@@ -6,5 +6,4 @@ tags:
   - HAM
   - QSL
 ---
-
-[QSL Show](HAM%20QSL%20Card%20Gallery/QSL%20Show%202770dd81fce6802ab7bfe8816f48cf9f.csv)
+* [浙江省业余无线中继台-BR5AI](qsl/ham-qsl-BR5AI.md)

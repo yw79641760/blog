@@ -198,7 +198,7 @@ tags:
 
 ## 3.7 太阳黑子周期影响
 
-![](https://sharing.yanwei.xyz/blog/image-99335e750648c127.png)
+![](https://sharing.yanwei.xyz/blog/image-f7e17d27e2a5c5e5.png)
 
 ### **太阳周期与HF通信的关系**
 
@@ -212,7 +212,7 @@ tags:
 
 # 4. 对流层传播
 
-![](https://sharing.yanwei.xyz/blog/image-83e8d7c357708cff.png)
+![](https://sharing.yanwei.xyz/blog/image-5846211cb17d5941.png)
 
 ### **4.1 成因**
 
@@ -308,7 +308,7 @@ tags:
 - 4️⃣**光球层**：光球层是太阳的可视表面，温度在4千开尔文（kK）至6kK之间。我们平时看到的太阳光芒主要来自这一层。
 - 5️⃣**色球层和** 6️⃣**日冕**：色球层位于光球层之上，深度约2,000公里，主要由氢组成，温度在4kK至20kK之间。日冕是太阳的外层大气，由高度电离的等离子体组成，温度超过1MK。日冕中的光谱特征可以追溯到高度电离的铁元素。
 
-![](https://sharing.yanwei.xyz/blog/image-d5d275e37249a0f7.png)
+![](https://sharing.yanwei.xyz/blog/image-31b89e115d7c49ac.png)
 
 ## **8.2 太阳活动现象**
 
@@ -358,7 +358,7 @@ tags:
 
 ### 日地数据样例与数据解析
 
-![295](https://sharing.yanwei.xyz/blog/image-7c5057b84a5e0b1a.png)
+![](https://sharing.yanwei.xyz/blog/image-4fc4241d12607e3f.png)
 
 | 类别          | 无线电中断（X射线X-Ray）             | 太阳辐射风暴（质子通量Proton Flux）    | 地磁风暴（K-Index、K-nT、Aurora、Solar Wind、Bz）                                                            | 频带开放（太阳光通量Solar Flux、太阳黑子数SN）                | 电子警报（电子通量 Electron Flux）          |
 | ----------- | --------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------- |
