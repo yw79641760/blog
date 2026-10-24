@@ -143,24 +143,11 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: "@quartz-community/explorer"
-    enabled: true
-    layout:
-      position: left
-      priority: 15
   - source: "@quartz-community/graph"
     enabled: true
     layout:
       position: right
       priority: 40
-  - source: "@quartz-community/search"
-    enabled: true
-    layout:
-      position: left
-      priority: 30
-      group: toolbar
-      groupOptions:
-        grow: true
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
@@ -209,6 +196,18 @@ plugins:
     layout:
       position: left
       priority: 15
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
@@ -239,11 +238,10 @@ plugins:
       links:
         GitHub: https://github.com/yw79641760
         Discord Community: https://discord.gg/gP4FmY2QwJ
-        X: https://x.com/yw79641760
+        Twitter/X: https://x.com/yw79641760
     layout:
       position: footer
       priority: 50
-
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
