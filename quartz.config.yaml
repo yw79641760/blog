@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: google
     tag: G-V0781QYQN5
-  locale: zh-CN
+  locale: en-US
   baseUrl: blog.yanwei.xyz
   ignorePatterns:
     - private
