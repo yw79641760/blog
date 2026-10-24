@@ -166,8 +166,8 @@ plugins:
   - source: "@quartz-community/tag-list"
     enabled: true
     layout:
-      position: beforeBody
-      priority: 30
+      position: left
+      priority: 60
   - source: "@quartz-community/page-title"
     enabled: true
     layout:
