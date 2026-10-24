@@ -172,7 +172,27 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 0
+      priority: 10
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
   - source: "@quartz-community/recent-notes"
     enabled: true
     options:
@@ -182,32 +202,12 @@ plugins:
       showTags: true
     layout:
       position: left
-      priority: 5
-  - source: "@quartz-community/search"
-    enabled: true
-    layout:
-      position: left
-      priority: 10
-      group: toolbar
-      groupOptions:
-        grow: true
+      priority: 40
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
       position: left
-      priority: 15
-  - source: "@quartz-community/darkmode"
-    enabled: true
-    layout:
-      position: left
-      priority: 20
-      group: toolbar
-  - source: "@quartz-community/reader-mode"
-    enabled: true
-    layout:
-      position: left
-      priority: 30
-      group: toolbar
+      priority: 50
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
