@@ -226,7 +226,7 @@ plugins:
         mapping: pathname
         strict: false
         reactionsEnabled: true
-        inputPosition: bottom
+        inputPosition: top
         theme: preferred_color_scheme
         lang: en
     layout:
