@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: 🌱 Neverland
-  pageTitleSuffix: "Live fast, Love hard, Die young."
+  pageTitleSuffix: " - Live fast, Love hard, Die young."
   enableSPA: true
   enablePopovers: true
   analytics:
