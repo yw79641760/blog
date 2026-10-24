@@ -188,9 +188,6 @@ plugins:
     layout:
       position: left
       priority: 10
-      group: toolbar
-      groupOptions:
-        grow: true
   - source: "@quartz-community/explorer"
     enabled: true
     layout:
