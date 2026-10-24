@@ -22,25 +22,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fafafa"
+        lightgray: "#eceff1"
+        gray: "#b0bec5"
+        darkgray: "#455a64"
+        dark: "#263238"
+        secondary: "#1565c0"
+        tertiary: "#4fc3f7"
+        highlight: rgba(21, 101, 192, 0.12)
+        textHighlight: "#fff9c4"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0f172a"
+        lightgray: "#1e293b"
+        gray: "#64748b"
+        darkgray: "#94a3b8"
+        dark: "#f1f5f9"
+        secondary: "#3b82f6"
+        tertiary: "#60a5fa"
+        highlight: rgba(59, 130, 246, 0.15)
+        textHighlight: "#1e3a8a"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -73,7 +73,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 30
+      priority: 20
   - source: "@quartz-community/crawl-links"
     enabled: false
     options:
@@ -147,17 +147,17 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 50
+      priority: 15
   - source: "@quartz-community/graph"
     enabled: true
     layout:
       position: right
-      priority: 10
+      priority: 40
   - source: "@quartz-community/search"
     enabled: true
     layout:
       position: left
-      priority: 20
+      priority: 30
       group: toolbar
       groupOptions:
         grow: true
@@ -165,7 +165,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 50
+      priority: 60
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
@@ -190,13 +190,13 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 30
+      priority: 50
       group: toolbar
   - source: "@quartz-community/reader-mode"
     enabled: true
     layout:
       position: left
-      priority: 35
+      priority: 60
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
@@ -241,14 +241,14 @@ plugins:
       showTags: true
     layout:
       position: left
-      priority: 25
+      priority: 40
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
     order: 25
     layout:
       position: left
-      priority: 25
+      priority: 70
       display: mobile-only
   - source: "@quartz-community/bases-page"
     enabled: true
