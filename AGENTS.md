@@ -64,6 +64,25 @@ npm run install-plugins   # install @quartz-community/* plugins into node_module
 - `@quartz-community/*` plugins resolved via `quartz/plugins/loader/install-plugins.ts` (runs on `prebuild`).
 - `quartz.lock.json` pins plugin versions — update it when adding/removing plugins.
 
+## Gotchas / Pitfalls
+
+- **`backlinks` requires `crawl-links` to be enabled.** The `backlinks` component reads `file.data.links`, which is only populated by the `crawl-links` transformer. If `crawl-links` is `enabled: false` in `quartz.config.yaml`, backlinks will always render nothing (it silently returns `null` due to `hideWhenEmpty: true`). Always enable both together:
+
+  ```yaml
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout:
+      position: right
+      priority: 45
+  ```
+
+- Backlinks only appear on pages that have incoming wiki-links (`[[Note]]`). Plain Markdown links `[text](url)` do not count. If no page links to the current note, the backlinks section is hidden.
+
 ## What to Avoid
 
 - No new top-level conventions that duplicate Quartz patterns.
