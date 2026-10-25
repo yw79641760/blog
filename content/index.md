@@ -8,7 +8,7 @@ description: Homepage of blog.yanwei.xyz
 
 >  _Sharing my curiosity, learnings, and perspectives here. Happy reading!_
 
-## Recent notes
+## 🆕 Recent notes
 
 - [[ham/ham-radio-signal-propagation|HAM无线电波传播]]
 - [[book/xiaominge-book-sheet|小民哥书单]]
