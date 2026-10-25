@@ -2,9 +2,10 @@
 title: About Me
 date created: 2024-10-23
 date modified: 2024-10-23
+description: About me
 ---
 
-# Wei YAN
+# Hi, I'm Wei YAN
 
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem;"> 
@@ -20,7 +21,7 @@ date modified: 2024-10-23
 
 ## 🎸 Skills and Specialties
 
-- Focusing on MarTech, building full stack marketing system from zero.
+- Focusing on _MarTech_, building full stack marketing system from zero.
 - Specializing in handling high concurrency scenario (e.g. 11-11 Grand Promotion), building reliable and extensible applications.
 - Help businesses transform their ideas into efficient solutions that both users and customers love.
 
@@ -35,14 +36,14 @@ date modified: 2024-10-23
 	- Language: Java, Python, JavaScript, Go, C, SQL, Gremlin.
 	- Infra: Linux, Shell, K8S, Docker.
 	- Endpoint: Web, App Backend.
-- After AI outbrust 🤖:
+- After AI outbrust:
 	- Tech seems like less and less important. 😷
 
 ## 💼 Work Experience
 
 - Marketing Architecture, System Reliability - Alihouse
 - User Growth / User Reach / Shopping Guide - Tmall App
-- Cloud Platform Security Management - Aliyun Yundun
+- Cloud Platform Security Management - Alibaba Cloud Yundun
 - Financial Assets Exchange (FAX) - CreditCloud / SoftOptimus / CredFin
 
 ## 🎒 Education Experience
@@ -57,3 +58,11 @@ date modified: 2024-10-23
 - [Twitter / X](https://x.com/yw79641760)
 - [Github](https://github.com/yw79641760)
 - [QRZ](https://qrz.com/db/BG5FUE)
+
+## 🤯 Top of Mind
+
+These are things I'm currently thinking about:
+
+- 🤖 AI
+- 🛍️ MarTech
+- 📡 HAM
