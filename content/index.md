@@ -2,6 +2,7 @@
 title: Welcome to Neverland
 date created: 2024-05-23
 date modified: 2024-05-23
+description: Homepage of blog.yanwei.xyz
 ---
 # Neverland
 
@@ -9,12 +10,12 @@ date modified: 2024-05-23
 
 ## Recent notes
 
-- [HAM无线电波传播](ham/ham-radio-signal-propagation.md)
-- [小民哥书单](book/xiaominge-book-sheet.md)
+- [HAM无线电波传播]([[ham-radio-signal-propagation]])
+- [小民哥书单]([[xiaominge-book-sheet]])
 
 ## 👋 Who am I
 
 **Hi, I’m Wei YAN**
 
-- 👨‍💻 A Software Developer @ Hangzhou. More info about me in [here](about-me.md).
+- 👨‍💻 A Software Developer @ Hangzhou. More info about me in [here]([[about-me]]).
 

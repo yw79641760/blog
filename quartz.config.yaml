@@ -160,7 +160,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 60
+      priority: 45
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
