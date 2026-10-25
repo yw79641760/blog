@@ -6,7 +6,7 @@ description: Homepage of blog.yanwei.xyz
 ---
 # Neverland
 
-> _Sharing my curiosity, learnings, and perspectives here. Happy reading!_
+>  _Sharing my curiosity, learnings, and perspectives here. Happy reading!_
 
 ## Recent notes
 
