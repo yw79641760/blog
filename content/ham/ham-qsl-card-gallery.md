@@ -11,4 +11,4 @@ description: A Gallery for QSL Cards
 
 `CQ CQ CQ`, This is `BG5FUE`. 在此展示与我通联过的各位友台的 QSL 卡片，73！
 
-- [浙江省业余无线中继台-BR5AI]([[ham-qsl-BR5AI]])
+- [[qsl/ham-qsl-BR5AI|浙江省业余无线中继台-BR5AI]]

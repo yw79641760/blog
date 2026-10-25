@@ -10,12 +10,12 @@ description: Homepage of blog.yanwei.xyz
 
 ## Recent notes
 
-- [HAM无线电波传播]([[ham-radio-signal-propagation]])
-- [小民哥书单]([[xiaominge-book-sheet]])
+- [[ham/ham-radio-signal-propagation|HAM无线电波传播]]
+- [[book/xiaominge-book-sheet|小民哥书单]]
 
 ## 👋 Who am I
 
 **Hi, I’m Wei YAN**
 
-- 👨‍💻 A Software Developer @ Hangzhou. More info about me in [here]([[about-me]]).
+- 👨‍💻 A Software Developer @ Hangzhou. More info about me in [[about-me|here]].
 
