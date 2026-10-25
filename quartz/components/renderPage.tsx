@@ -87,6 +87,7 @@ export function pageResources(
         src: joinSegments(baseDir, prescriptFile),
         loadTime: "beforeDOMReady",
         contentType: "external",
+        defer: true,
       },
       {
         loadTime: "beforeDOMReady",

@@ -10,12 +10,13 @@ date modified: 2024-05-23
 
 ## 👋 About Me
 
-**Hi, I’m Wei YAN** 
-- 👨‍💻 Software Developer@Hangzhou. 
+**Hi, I’m Wei YAN**
+
+- 👨‍💻 Software Developer@Hangzhou.
 - Background:
-	- 📡 Communication Engineering (QAU)
-	- 🔐 Information Security (BUPT) 
-	- 🛒 E-Commerce Marketing and 📈 User-Growth (Alibaba). 
+  - 📡 Communication Engineering (QAU)
+  - 🔐 Information Security (BUPT)
+  - 🛒 E-Commerce Marketing and 📈 User-Growth (Alibaba).
 - I love exploring different topics ranging from tech to lifestyle, from science to philosophy. In this blog, I aim to share my curiosity, learnings, and perspectives. Happy reading!
 
 ## 🤯 Top of Mind

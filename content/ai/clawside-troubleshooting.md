@@ -25,7 +25,7 @@ openclaw gateway stop
 
 ```json
 {
-	"gateway": {
+  "gateway": {
     "port": 18789,
     "mode": "local",
     "bind": "loopback",
@@ -58,7 +58,7 @@ Reference:
 
 No authentication is required when accessing Ollama’s API locally via [`http://localhost:11434`](http://localhost:11434/). Ollama allows cross-origin requests from `127.0.0.1` and `0.0.0.0` by default. Additional origins can be configured with `OLLAMA_ORIGINS`.
 
-For browser extensions, you’ll need to explicitly allow the extension’s origin pattern. Set `OLLAMA_ORIGINS` to include `chrome-extension://`*, `moz-extension://`*, and `safari-web-extension://*` if you wish to allow all browser extensions access, or specific extensions as needed:
+For browser extensions, you’ll need to explicitly allow the extension’s origin pattern. Set `OLLAMA_ORIGINS` to include `chrome-extension://`_, `moz-extension://`_, and `safari-web-extension://*` if you wish to allow all browser extensions access, or specific extensions as needed:
 
 ```bash
 # Allow all Chrome, Firefox, and Safari extensions
@@ -72,7 +72,7 @@ or solve this problem more thoroughly
 OLLAMA_ORIGINS=* ollama serve
 ```
 
-Reference: 
+Reference:
 
 1. https://docs.ollama.com/api/authentication
 2. https://docs.ollama.com/faq#how-can-i-allow-additional-web-origins-to-access-ollama
@@ -104,7 +104,7 @@ GATEWAY_ALLOW_ALL_USERS=true
 hermes gateway start
 ```
 
-Reference: 
+Reference:
 
 1. https://hermes-agent.nousresearch.com/docs/user-guide/features/api-server?_highlight=api_server#configuration
 2. https://hermes-agent.nousresearch.com/docs/developer-guide/gateway-internals?_highlight=gateway_allow_all_users#authorization

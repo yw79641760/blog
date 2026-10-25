@@ -13,13 +13,13 @@ This is a personal digital garden/blog built with **Quartz v5**. It is deployed 
 
 ## Key Directories
 
-| Path | Purpose |
-|------|---------|
-| `content/` | Markdown source of truth (ham, ai, book, security) |
-| `quartz/` | Vendored Quartz core (components, plugins, styles, i18n) |
-| `quartz.config.yaml` | Site config — the single source of behavior |
-| `package.json` | Scripts, deps, engines (Node ≥22, npm ≥10.9.2) |
-| `public/` | Build output (do not edit) |
+| Path                 | Purpose                                                  |
+| -------------------- | -------------------------------------------------------- |
+| `content/`           | Markdown source of truth (ham, ai, book, security)       |
+| `quartz/`            | Vendored Quartz core (components, plugins, styles, i18n) |
+| `quartz.config.yaml` | Site config — the single source of behavior              |
+| `package.json`       | Scripts, deps, engines (Node ≥22, npm ≥10.9.2)           |
+| `public/`            | Build output (do not edit)                               |
 
 ## Common Commands
 

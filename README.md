@@ -6,12 +6,12 @@ Personal digital garden and blog built with [Quartz v5](https://github.com/jacky
 
 ## 📖 Content Categories
 
-| Category | Path | Description |
-|----------|------|-------------|
-| **Ham Radio** | `content/ham/` | Amateur radio guides, antenna theory, device reviews, QSL cards |
-| **AI** | `content/ai/` | AI tooling, troubleshooting, experiments |
-| **Books** | `content/book/` | Book notes and reading sheets |
-| **Security** | `content/security/` | Kali Linux, security cookbooks |
+| Category      | Path                | Description                                                     |
+| ------------- | ------------------- | --------------------------------------------------------------- |
+| **Ham Radio** | `content/ham/`      | Amateur radio guides, antenna theory, device reviews, QSL cards |
+| **AI**        | `content/ai/`       | AI tooling, troubleshooting, experiments                        |
+| **Books**     | `content/book/`     | Book notes and reading sheets                                   |
+| **Security**  | `content/security/` | Kali Linux, security cookbooks                                  |
 
 ## 🚀 Quick Start
 
@@ -75,6 +75,7 @@ npm run build
 Main config: `quartz.config.yaml`
 
 Key sections:
+
 - `configuration` — site metadata, theme, analytics, locale
 - `plugins` — enabled/disabled plugins with options and layout positions
 - `layout` — component positioning per page type
@@ -94,9 +95,10 @@ description: Brief summary for SEO/social
 ```
 
 Supports:
+
 - Wiki-links: `[[Other Note]]`
 - Tags: `#tag` or frontmatter `tags`
-- Mermaid: ````mermaid` ... ````
+- Mermaid: ``mermaid` ... ``
 - LaTeX: `$inline$` or `$$block$$`
 - Excalidraw: `.excalidraw.md` files
 

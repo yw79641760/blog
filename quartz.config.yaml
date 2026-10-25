@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: google
-    tag: G-V0781QYQN5
+    tagId: G-V0781QYQN5
   locale: en-US
   baseUrl: blog.yanwei.xyz
   ignorePatterns:
