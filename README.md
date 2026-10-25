@@ -23,7 +23,7 @@ npm install
 npm run docs
 
 # Production build
-npm run build
+npx quartz build
 
 # Output directory: public/
 ```
@@ -105,7 +105,7 @@ Supports:
 ## 🌐 Deployment
 
 ```bash
-npm run build    # outputs to public/
+npx quartz build    # outputs to public/
 # Deploy public/ to any static host (Netlify, Vercel, Cloudflare Pages, GitHub Pages, etc.)
 ```
 

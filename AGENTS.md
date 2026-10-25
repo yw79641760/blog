@@ -24,13 +24,13 @@ This is a personal digital garden/blog built with **Quartz v5**. It is deployed 
 ## Common Commands
 
 ```bash
-npm run quartz   # CLI wrapper: ./quartz/bootstrap-cli.mjs
-npm run docs     # build --serve -d docs (dev server)
-npm run build    # production build to public/
-npm run check    # tsc --noEmit && prettier --check
-npm run format   # prettier --write
-npm run test     # tsx --test (unit tests under quartz/**/*.test.ts)
-npm run install-plugins  # install @quartz-community/* plugins into node_modules
+npx quartz build          # production build to public/
+npx quartz build --serve  # dev server (hot reload)
+npm run docs              # same as above, outputs to docs/
+npm run check             # tsc --noEmit && prettier --check
+npm run format            # prettier --write
+npm run test              # tsx --test (unit tests under quartz/**/*.test.ts)
+npm run install-plugins   # install @quartz-community/* plugins into node_modules
 ```
 
 ## Content Rules

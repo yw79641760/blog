@@ -6,8 +6,15 @@ date modified: 2024-10-23
 
 # Wei YAN
 
-- MAGI-CASPER / Peter Pan
-- A `Software Developer` based in `Hangzhou, CHINA`
+
+<div style="display: flex; align-items: flex-start; gap: 1.5rem;"> 
+	<!-- 图片部分：设置固定宽度，防止被压缩 --> 
+	<img src="https://sharing.yanwei.xyz/blog/image-d30be54c00072890.png" alt="avatar" style="width: 120px; flex-shrink: 0; border-radius: 8px;">
+	<!-- 文字内容区域 --> 
+	<div> 
+	A Software Engineer @ Hangzhou, CHINA
+	</div>
+</div>
 
 ---
 
@@ -25,10 +32,11 @@ date modified: 2024-10-23
 ## 🛠️ Tech Stack
 
 - Before AI outbrust:
-  - Cloud: k8s, Docker. Shell.
-  - Language: Java, Spring Eco-system. Python.
+	- Language: Java, Python, JavaScript, Go, C, SQL, Gremlin.
+	- Infra: Linux, Shell, K8S, Docker.
+	- Endpoint: Web, App Backend.
 - After AI outbrust 🤖:
-  - Tech seems like less and less important. 😷
+	- Tech seems like less and less important. 😷
 
 ## 💼 Work Experience
 
@@ -40,8 +48,9 @@ date modified: 2024-10-23
 ## 🎒 Education Experience
 
 - Information Security (Master) - [BUPT](https://www.bupt.edu.cn)
-  - Distributed System Design & Implementations
+	- Distributed System (MapReduce)
 - Communication Engineering (Bachelor) - [QAU](https://www.qau.edu.cn)
+	- Embedded System (ARM-Linux)
 
 ## 📮 Contacts
 

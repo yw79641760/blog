@@ -1,5 +1,5 @@
 ---
-title: A16Z推荐书单
+title: A16Z书单
 date created: 2024-07-02
 date modified: 2024-07-02
 description: A book list compiled by A16Z.
